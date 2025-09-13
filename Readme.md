@@ -11,7 +11,7 @@ The app features advanced OCR capabilities to extract expense data from uploaded
 ## 📸 Screenshots
 
 *The Main Dashboard, showing the analytics chart and transaction list.*
-![Dashboard Screenshot](<path/to/your/screenshot.png>) 
+![Dashboard Screenshot](https://github.com/sakshigithubssuk/Personal-Finance-assistant/tree/main/Demo) 
 
 
 ## Key Features
@@ -95,5 +95,6 @@ Follow these instructions to run the project locally on your machine.
     The frontend will be running on `http://localhost:5173` 
 
 ---
+
 
 
