@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const apiClient = axios.create({
-  baseURL: 'http://localhost:5000/api',
+  baseURL: 'https://personal-finance-assistant-3r7t.onrender.com',
 });
 
 // This interceptor is the key to authenticated requests!
