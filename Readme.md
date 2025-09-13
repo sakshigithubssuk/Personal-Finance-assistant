@@ -92,9 +92,10 @@ Follow these instructions to run the project locally on your machine.
     ```sh
     npm run dev
     ```
-    The frontend will be running on `http://localhost:5173` 
+    The frontend will be running on `http://localhost:5173` (locally)
 
 ---
+
 
 
 
