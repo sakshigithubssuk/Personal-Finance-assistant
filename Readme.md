@@ -81,7 +81,9 @@ Follow these instructions to run the project locally on your machine.
 3.  **(Optional for Deployment) Create a `.env.local` file:**
     If you are deploying, create a `.env.local` file in the `frontend` folder to point to your live backend URL.
     ```
-    VITE_API_URL=https://your-backend-url.onrender.com
+    VITE_API_URL=https://personal-finance-assistant-3r7t.onrender.com
+
+
     ```
     *Note: For local development, this is not needed as a proxy is often used.*
 
@@ -93,4 +95,5 @@ Follow these instructions to run the project locally on your machine.
     The frontend will be running on `http://localhost:5173` 
 
 ---
+
 
