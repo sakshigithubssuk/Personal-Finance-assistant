@@ -1,0 +1,4 @@
+Milk 3.50
+Bread 2.75
+Apples 4.25
+Chicken 15.00

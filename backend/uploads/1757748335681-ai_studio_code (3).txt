@@ -1,0 +1,7 @@
+Bank Statement - August 2025
+
+2025-08-01 income Salary 3000.00
+2025-08-05 expense Rent 1200.00
+2025-08-10 expense Groceries 85.40
+2025-08-15 expense Gas 45.00
+2025-08-22 income Freelance Work 500.00
