@@ -8,10 +8,10 @@ The app features advanced OCR capabilities to extract expense data from uploaded
 **[View Live Project](https://personal-finance-assistant-rouge.vercel.app/)** 
 *(Note: The free backend server may take 30-60 seconds to "wake up" on the first visit.)*
 
-## 📸 Screenshots
+## 📸 Demo gif
 
 *The Main Dashboard, showing the analytics chart and transaction list.*
-![Dashboard Screenshot](https://github.com/sakshigithubssuk/Personal-Finance-assistant/tree/main/Demo) 
+![Gif](https://github.com/sakshigithubssuk/Personal-Finance-assistant/tree/main/Demo) 
 
 
 ## Key Features
@@ -95,6 +95,7 @@ Follow these instructions to run the project locally on your machine.
     The frontend will be running on `http://localhost:5173` (locally)
 
 ---
+
 
 
 
