@@ -14,7 +14,7 @@ The app features advanced OCR capabilities to extract expense data from uploaded
 ![Gif](https://github.com/sakshigithubssuk/Personal-Finance-assistant/tree/main/Demo) 
 
 ## Receipts and Transaction pdf/images test files:-
-**[Receipts]()
+**[Receipts](https://github.com/sakshigithubssuk/Personal-Finance-assistant/blob/main/TestFiles/Receipts.pdf)
 **[Transaction]()
 ## Key Features
 
@@ -97,6 +97,7 @@ Follow these instructions to run the project locally on your machine.
     The frontend will be running on `http://localhost:5173` (locally)
 
 ---
+
 
 
 
