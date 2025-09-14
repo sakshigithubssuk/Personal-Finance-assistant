@@ -14,8 +14,9 @@ The app features advanced OCR capabilities to extract expense data from uploaded
 ![Gif](https://github.com/sakshigithubssuk/Personal-Finance-assistant/tree/main/Demo) 
 
 ## Receipts and Transaction pdf/images test files:-
-**[Receipts](https://github.com/sakshigithubssuk/Personal-Finance-assistant/blob/main/TestFiles)
-**[Transaction](https://github.com/sakshigithubssuk/Personal-Finance-assistant/blob/main/TestFiles)
+//once see date range of test file before  upload the analytics and transaction list show the graph and list according to time range
+**[Receipts date range of receipt is (Date: 2025-07-15)](https://github.com/sakshigithubssuk/Personal-Finance-assistant/blob/main/TestFiles)
+**[Transaction (date from:01/08/2025)](https://github.com/sakshigithubssuk/Personal-Finance-assistant/blob/main/TestFiles)
 ## Key Features
 
 *   **Secure User Authentication:** Full registration and login system using JWT for security.
@@ -97,6 +98,7 @@ Follow these instructions to run the project locally on your machine.
     The frontend will be running on `http://localhost:5173` (locally)
 
 ---
+
 
 
 
